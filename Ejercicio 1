@@ -6,6 +6,9 @@ console.log(pregunta)
 
 respuesta = "si"
 
+console.log(respuesta)
+
+
 if(respuesta === "no"){
 resultado = "No te creo"
 }else if(respuesta === "si"){
