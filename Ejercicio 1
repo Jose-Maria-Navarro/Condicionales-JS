@@ -1,11 +1,15 @@
 let pregunta = "¿Eres bellisimo/a?"
-let respuesta
+let respuesta 
 let resultado
 
-if(respuesta = "no"){
+console.log(pregunta)
+
+respuesta = "si"
+
+if(respuesta === "no"){
 resultado = "No te creo"
-}else if(respuesta = "si"){
-resultado = “Ciertamente”
+}else if(respuesta === "si"){
+resultado = "Ciertamente"
 }else{
 
 resultado = "No respondio la pregunta"
