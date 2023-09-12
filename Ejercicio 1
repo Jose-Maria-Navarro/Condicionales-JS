@@ -1,12 +1,8 @@
 let pregunta = "¿Eres bellisimo/a?"
 let respuesta 
 let resultado
+respuesta = prompt(pregunta) 
 
-console.log(pregunta)
-
-respuesta = "si"
-
-console.log(respuesta)
 
 
 if(respuesta === "no"){
