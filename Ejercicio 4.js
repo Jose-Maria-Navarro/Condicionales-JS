@@ -13,5 +13,4 @@ respuesta = "Numero "+numero+" Lo sentimos, sigue participando"
 
 }
 
-
 console.log(respuesta)
